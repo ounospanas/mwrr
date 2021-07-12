@@ -10,4 +10,4 @@ We preprocessed and created query signal-comparison signals pairs to evaluate ou
 - [UCL](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 
 ### Acknowledgment
-This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational <<Programme Human Resources Development, Education and Lifelong Learning 2014-2020>> in the context of the project “On applying Deep Learning techniques to insufficient labeled sensor data for gesture recognition” (MIS 5050324).
+This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Program <<Human Resources Development, Education and Lifelong Learning 2014-2020>> in the context of the project “On applying Deep Learning techniques to insufficient labeled sensor data for gesture recognition” (MIS 5050324).
